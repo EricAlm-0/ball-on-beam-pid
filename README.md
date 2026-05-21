@@ -1,7 +1,7 @@
 # Ball-on-Beam PID Controller
 > Real-time embedded control system built with Arduino Uno, HC-SR04 ultrasonic sensor and a servo motor.
 
-![Status](https://img.shields.io/  badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Arduino%20Uno-blue)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-orange)
 
